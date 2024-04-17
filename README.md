@@ -16,6 +16,7 @@ Clone the repository and install the necessary dependencies:
 git clone https://github.com/Meriiem/AI-or-Human-Made-Art
 cd AI-or-Human-Made-Art
 pip install -r requirements.txt
+```
 
 ## Model Details
 The architecture includes convolutional layers, max pooling, flattening steps, and dense layers. It uses binary cross-entropy for loss and accuracy for evaluation metrics.

@@ -15,7 +15,6 @@ Clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/Meriiem/AI-or-Human-Made-Art
 cd AI-or-Human-Made-Art
-pip install -r requirements.txt
 ```
 
 ## Model Details

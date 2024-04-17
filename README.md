@@ -22,4 +22,4 @@ pip install -r requirements.txt
 The architecture includes convolutional layers, max pooling, flattening steps, and dense layers. It uses binary cross-entropy for loss and accuracy for evaluation metrics.
 
 ## Training and Evaluation
-Data is split into 70% training, 20% validation, and 10% test sets. Visualize training performance with TensorBoard:
+Data is split into 70% training, 20% validation, and 10% test sets.

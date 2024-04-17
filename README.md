@@ -5,7 +5,7 @@ This repository hosts a TensorFlow model capable of distinguishing between AI-ge
 ## Project Structure
 
 - `data/`: Contains the dataset, organized into subfolders for AI and Human categories.
-- `models/`: Stores the trained model files.
+- `models/`: Stores the trained model file.
 - `logs/`: Holds TensorBoard logging data for training visualization.
 
 ## Installation

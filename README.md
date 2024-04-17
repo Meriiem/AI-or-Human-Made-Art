@@ -13,6 +13,6 @@ This repository hosts a TensorFlow model capable of distinguishing between AI-ge
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Meriiem/AI-or-Human-Made-Art
+cd AI-or-Human-Made-Art
 pip install -r requirements.txt
